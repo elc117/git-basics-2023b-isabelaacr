@@ -1,1 +1,1 @@
-Repositório do jogo
+Repositório
